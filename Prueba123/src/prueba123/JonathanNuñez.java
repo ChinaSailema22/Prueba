@@ -13,7 +13,8 @@ import javax.swing.JOptionPane;
  */
 public class JonathanNuñez {
     public static void main(String[] args) {
-      JOptionPane.showMessageDialog(null, "Tarado");  
+      JOptionPane.showMessageDialog(null, "Tarado"); 
+        System.out.println("Hola :P");
     }
     //menso
             
