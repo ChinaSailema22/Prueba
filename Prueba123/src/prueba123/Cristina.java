@@ -10,6 +10,8 @@ package prueba123;
  * @author dell
  */
 public class Cristina {
-    
+    public static void main(String[] args) {
+        
+    }
     
 }
