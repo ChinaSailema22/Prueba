@@ -11,5 +11,7 @@ package prueba123;
  */
 public class Patty {
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Hola!!!...");
+   
     }
+}
+
