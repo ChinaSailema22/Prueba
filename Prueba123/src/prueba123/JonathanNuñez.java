@@ -5,11 +5,16 @@
  */
 package prueba123;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author -
  */
 public class JonathanNuñez {
+    public static void main(String[] args) {
+      JOptionPane.showMessageDialog(null, "Tarado");  
+    }
     //menso
-    
+            
 }
