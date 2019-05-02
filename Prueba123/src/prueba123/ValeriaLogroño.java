@@ -11,5 +11,5 @@ package prueba123;
  */
 public class ValeriaLogroño {
     //HOL
-    //HOLA VALERIA SOY JONATHAN JAJAJAJ XD XD PENDEJA 
+    //HOLA VALERIA SOY JONATHAN JAJAJAJ XD XD PENDEJA  MENSA
 }
