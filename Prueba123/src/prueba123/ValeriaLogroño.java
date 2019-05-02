@@ -10,5 +10,5 @@ package prueba123;
  * @author Usuario
  */
 public class ValeriaLogroño {
-    //HOLA
+    //HOL
 }
